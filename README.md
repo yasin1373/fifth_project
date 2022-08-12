@@ -1,1 +1,1 @@
-# fifth_project
+Processing a raw EMG signal has been done in various steps. Plot of every step is drawn to give the reader a deep insight into how codes are implemented.In addition to shed light on codes, some accounts have been given.
